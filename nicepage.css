@@ -41673,7 +41673,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-2 {
-    min-height: 601px;
+    min-height: 564px;
   }
 
   .u-header .u-form-1 {
@@ -41699,7 +41699,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-group-1 {
     min-height: 240px;
-    margin-top: -490px;
+    margin-top: -470px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -41716,7 +41716,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-2 {
     height: 61px;
-    margin-top: -110px;
+    margin-top: -101px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
